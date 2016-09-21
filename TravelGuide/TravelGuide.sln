@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelGuide", "TravelGuide\TravelGuide.csproj", "{F20FE039-8AF9-4D66-9578-F4F44A2C911A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelGuide.Tests", "TravelGuide.Tests\TravelGuide.Tests.csproj", "{9B24D8F2-A97A-4DFE-9A02-8414981C544D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20FE039-8AF9-4D66-9578-F4F44A2C911A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20FE039-8AF9-4D66-9578-F4F44A2C911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20FE039-8AF9-4D66-9578-F4F44A2C911A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20FE039-8AF9-4D66-9578-F4F44A2C911A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B24D8F2-A97A-4DFE-9A02-8414981C544D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B24D8F2-A97A-4DFE-9A02-8414981C544D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B24D8F2-A97A-4DFE-9A02-8414981C544D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B24D8F2-A97A-4DFE-9A02-8414981C544D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
